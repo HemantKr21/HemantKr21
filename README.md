@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HemantKr21
 - 👀 I’m interested in learning, creating and executing.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my skills.
 - 📫 How to reach me ... du.hemantkumar@gmail.com
 
 <!---
